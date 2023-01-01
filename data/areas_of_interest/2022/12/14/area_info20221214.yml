@@ -1,0 +1,40 @@
+norra_djurgarden:
+  area_code: '473397'
+  listings: 8
+gardet:
+  area_code: '898475'
+  listings: 57
+kungsholmen:
+  area_code: '925968'
+  listings: 116
+ostermalm:
+  area_code: '473448'
+  listings: 68
+stora_essingen:
+  area_code: '473422'
+  listings: 9
+lilla_essingen:
+  area_code: '473386'
+  listings: 17
+hjorthagen:
+  area_code: '473369'
+  listings: 6
+vasastan:
+  area_code: '925970'
+  listings: 154
+sodermalm:
+  area_code: '898472'
+  listings: 121
+norrmalm:
+  area_code: '925969'
+  listings: 13
+sundbyberg:
+  area_code: '18042'
+  listings: 109
+solna:
+  area_code: '18028'
+  listings: 192
+gamla_stan:
+  area_code: '473362'
+  listings: 7
+total_listings: 877

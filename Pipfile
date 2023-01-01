@@ -8,6 +8,7 @@ pandas = "*"
 pyarrow = "*"
 matplotlib = "*"
 fastparquet = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"

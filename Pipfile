@@ -9,6 +9,8 @@ pyarrow = "*"
 matplotlib = "*"
 fastparquet = "*"
 seaborn = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 ipykernel = "*"
